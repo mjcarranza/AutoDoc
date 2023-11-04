@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stardeck-386101",
+  "private_key_id": "e37bc0a502bd03da13796119527dc3657a9cb0bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGJ9tWwKSM2KQW\nYE99HYkLb5Do6lhEf6fiSorIJNtHy+WMk3LjDhnnWAOE4QFBhYH4PjF965ARkJKk\n5MMoGjV45M7VlEIozK+6bt1T95NmZzECqaX4SrRIByD9CpvVSh3uY9AKG4XJ7uvK\nTi7/BHiIm1zQFIl/PZv8z0eK0MFAA0l7MGTvjDZHlYl7Tv4twRlOEPVxM6pT3m/A\n/x0+jJ7NjENNKu/zqHiykvkVsqRgDhzcKJWis25oSF6ApZS0nWlWAM/OQqAYSY1Z\npKDj82L9hJjIZp60T+kGQRbTYN8cfAIH+D4v7sAmLltZQYUUzTsHR7TaF+PJh60K\nt1MxpTvXAgMBAAECggEABe4jGv2fCH7XGgod2WkB0tiWrkUVq8l80Vr8MYa3jr/r\noMAv1uubp4dTeH89v/i32xJcu7U7BBvA77sRCWfHL1Xl8rkAB6+soPAfpoOOJ3uu\nRfDb3lLnDzwJcEYUx2PkWNJesuOukVOXZrT4DNvUvC0p+CTAQzik+ZLsFa3OrRan\nuWchaFp7AtNe52stdhgbFoEzavsh9yjgbtehmWYgYndQ+0efiA+FLDLZpghdVxMm\nVIhrcNHlzEIyBZcDoT+LIHAppaZg8C6QbFxMQTo5MZIWmmm/0JwSlyqZS8ZuTtcs\nezjuDzss9jbhkmU7LG1Zer0Go5XTOZ9OnxIlICHYwQKBgQC65g47LUL4AEV2q02C\nHAhUohp19wyjsIZkUtnSZ9FSaCqhUGuttGQ7dQOkspUSJb45IkAXKhimD6lrJXo+\nGr8UrUkMmOnb7tfOC9E/7q5QuLIiTr41z5CO53f2RD/pqoFCLz7hRN6wfM3cFTnu\nQXl0B7yEcKJ4zV/nPgCOsKrdIQKBgQC3wa7y7a8v2P8nJ9XuIJsPjaCcn05xRYMG\n8sd+4mucOkjZscIaa+Mw+3WKNpPGD3+/s02ACmF3TLEhJjvukc/OKmpYY4+Agup9\n6zuCZyIKbB7il6vsnhBHXYJ7Gj4zdH/j9CuCMemat54yRf266Ne3ypEqLBc8MvwC\nYt7edZTB9wKBgHbgn4qqVl9SJNy/RtSMKgxS80u3MNXpEQI85Il9OVoWIY9rjKH3\nDI349rFKWaEqWp0SmPti7jyp15PsSZ24+3MWaVFW7eDTQXawc48brMpxP/SsazXk\n6UjMF7SPYquopQDI9lDoslBFgdcLtUZDZRIVXaZL0jvOPcLi4A3idzuhAoGAOQCi\nLsXAtI0SCal32ZjPwTFkA3H/uW+gx8UEUb4XN6107+MOnXeeUJGQ0sE/cg9Yx7Tt\nc6zEs2ddAzWDHeyplADgYG7yEyGJcGpKWZd4ndcQdaYrNQmLbzf4xAtOBFQ9YA9c\nd9TX7KDNODcyEIsub9ss0PJAevIt7ueQz12WOd0CgYEArYinSKdsL9KV1L5LBesP\ngcGGSowgl+emF/WL4BdQzDSVE90/U0ep/3NcO/0oWgjG/Qj8/rXMO/CCW9/deNrP\nkShbD8F8dVQXemxeo5dd2PruCAJA0bUhUBezFlVtfk48jNixYUQAsxlW2pSByLt1\n4GjSk13dFrk2ui9j7kdHXww=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapiserviceaccount@stardeck-386101.iam.gserviceaccount.com",
+  "client_id": "105470153494497910825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapiserviceaccount%40stardeck-386101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

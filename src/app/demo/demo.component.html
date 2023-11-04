@@ -1,0 +1,31 @@
+<div class="container">
+    <h2>
+       Hasle cualquier pregunta sobre mecánica a AutoDoc IA
+    </h2>
+    <hr>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div
+                class="form-group">
+                <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 25px;">Pregunta para AutoDocIA</h3><hr>
+                <!-- <label for="name">Prompt</label> -->
+            <textarea rows="10" placeholder="Escriba su pregunta aquí..." class="form-control" cols="6" [(ngModel)]="promptText"></textarea>
+            </div>
+
+            <div>
+                <br>
+                <button class="btn btn-primary" (click)="checkResponse()">Preguntar</button>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 25px;">Respuesta de AutoDoc IA</h3><hr>
+            <h4 *ngIf="showSpinner" style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">Procesando, espere...</h4>
+            <div *ngFor="let choice of response?.choices">
+                <p *ngFor="let data of getText(choice.text)" class="responseStyle"> {{data}} <br> </p>                        
+            </div>
+        </div>
+    </div>
+    <br>
+</div>
+
